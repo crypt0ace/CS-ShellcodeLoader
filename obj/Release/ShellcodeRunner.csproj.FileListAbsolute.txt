@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Source\Repos\ShellcodeRunner\bin\Release\ShellcodeRunner.exe.config
+C:\Users\crypt0ace\Source\Repos\ShellcodeRunner\bin\Release\ShellcodeRunner.exe
+C:\Users\crypt0ace\Source\Repos\ShellcodeRunner\bin\Release\ShellcodeRunner.pdb
+C:\Users\crypt0ace\Source\Repos\ShellcodeRunner\obj\Release\ShellcodeRunner.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Source\Repos\ShellcodeRunner\obj\Release\ShellcodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Source\Repos\ShellcodeRunner\obj\Release\ShellcodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Source\Repos\ShellcodeRunner\obj\Release\ShellcodeRunner.exe
+C:\Users\crypt0ace\Source\Repos\ShellcodeRunner\obj\Release\ShellcodeRunner.pdb
